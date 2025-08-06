@@ -6,7 +6,7 @@ This Obsidian plugin adds a tooltip preview of the first-level headings (`#`) fr
 
 - Quickly preview top-level headings without opening the note
 - Clean tooltip design that appears after a short delay
-- Enhances heading appearance by adding bullet points for better visual structure. 
+- Enhances heading appearance by adding bullet points for better visual structure 
 - Saves time when navigating large vaults
 
 ### How it works
