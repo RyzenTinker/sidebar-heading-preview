@@ -32,7 +32,7 @@ When you hover over a file in the file explorer (sidebar), the plugin shows a sm
 
 ### Acknowledgements
 
-Developed by RyzenTinker
+Developed by Shijin
 
 ---
 
