@@ -1,0 +1,10 @@
+{
+  "id": "sidebar-heading-preview",
+  "name": "Sidebar Heading Preview",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Preview the headings of the active note directly in the sidebar — for faster navigation and context awareness.",
+  "author": "Shijin K S",
+  "authorUrl": "https://github.com/RyzenTinker",
+  "main": "main.js"
+}
