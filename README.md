@@ -4,14 +4,18 @@ This Obsidian plugin adds a tooltip preview of the first-level headings (`#`) fr
 
 ### Features
 
-- Quickly preview top-level headings without opening the note
-- Clean tooltip design that appears after a short delay
-- Enhances heading appearance by adding bullet points for better visual structure 
-- Saves time when navigating large vaults
+- Instantly preview top-level headings (# Heading) on hover without opening the note
+- Clean and responsive tooltip design with smooth alignment
+- Adds bullet points to each heading for better visual clarity
+- Customizable appearance via styles.css (easy theming support)
+- Saves time when navigating large vaults with many files
 
 ### How it works
 
-When you hover over a file in the file explorer (sidebar), the plugin shows a small tooltip containing the `#` headings from that file.
+When you hover over a file name in the Obsidian file explorer (sidebar), a small tooltip appears near your cursor after a short delay.
+This tooltip shows the top-level headings (# Heading) found in the file, styled with bullets and improved readability.
+
+If a file doesn't contain any # Heading, no tooltip appears.
 
 ---
 
