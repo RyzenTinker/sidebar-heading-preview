@@ -1,7 +1,7 @@
 {
   "id": "sidebar-heading-preview",
   "name": "Sidebar Heading Preview",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minAppVersion": "0.12.0",
   "description": "Show top-level headings as tooltip when hovering over files in Obsidian's sidebar.",
   "author": "Shijin KS",
