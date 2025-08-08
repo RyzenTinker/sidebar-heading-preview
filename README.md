@@ -30,7 +30,8 @@ If a file doesn't contain any # Heading, no tooltip appears.
 ### Planned Improvements
 
 - Option to customize tooltip delay  
-- Support for more heading levels (`##`, `###`, etc.)  
+- Support for more heading levels (`##`, `###`, etc.)
+- as soon as obsidian recognises the plugin, an improved code is on the way 
 
 ---
 
