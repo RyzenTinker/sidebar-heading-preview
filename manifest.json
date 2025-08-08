@@ -4,7 +4,6 @@
   "author": "Shijin KS",
   "version": "1.1.0",
   "description": "Quickly preview top-level headings from notes in the sidebar. Saves time when navigating large vaults.",
-  "main":"main.js",
   "minAppVersion": "0.12.0",
   "isDesktopOnly": true
 }
